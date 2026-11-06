@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Dependencies
 node_modules/
@@ -28,3 +29,8 @@ Thumbs.db
 
 # Optional
 *.log
+=======
+node_modules/
+build/
+.env
+>>>>>>> f2dba39f893258cfa4447742d177a7bb0f064b45
